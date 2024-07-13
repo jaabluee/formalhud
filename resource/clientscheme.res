@@ -3031,6 +3031,78 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		// Fonts for Custom HUD //
+
+		TTT-Regular12
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular16
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular24
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular32
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular36
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular42
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Regular48
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -5850,5 +5922,15 @@ Scheme
 		"15"		"resource/linux_fonts/LiberationSans-Bold.ttf"
 		"16"		"resource/linux_fonts/LiberationMono-Regular.ttf"
 		"17"		"resource/linux_fonts/FiraSans-Regular.ttf"
+		"18"
+		{
+			"font" "resource/fonts/TTT-Regular.ttf"
+			"name" "TTT-Regular"
+		}
+		"19"
+		{
+			"font" "resource/fonts/TTT-Bold.ttf"
+			"name" "TTT-Bold"
+		}
 	}
 }
