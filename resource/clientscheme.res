@@ -3103,6 +3103,76 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		Khiara12
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		Khiara16
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		Khiara24
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		Khiara32
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+
+		Khiara36
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+		Khiara42
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		Khiara48
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -5931,6 +6001,11 @@ Scheme
 		{
 			"font" "resource/fonts/TTT-Bold.ttf"
 			"name" "TTT-Bold"
+		}
+		"20"
+		{
+			"font" "resource/fonts/Khiara Script.ttf"
+			"name" "Khiara Script Personal"
 		}
 	}
 }

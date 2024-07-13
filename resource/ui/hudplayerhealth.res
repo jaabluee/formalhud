@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"TTT-Regular16"
+		"font"			"Khiara24"
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatusMaxHealthValue"
