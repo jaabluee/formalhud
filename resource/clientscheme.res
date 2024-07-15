@@ -3034,6 +3034,7 @@ Scheme
 
 		// Fonts for Custom HUD //
 
+		// TTT Regular //
 		TTT-Regular12
 		{
 			"1"
@@ -3104,6 +3105,98 @@ Scheme
 			}
 		}
 
+		TTT-Regular56
+		{
+			"1"
+			{
+				"name"		"TTT-Regular"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+
+		// TTT Bold //
+		TTT-Bold12
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold16
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold24
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold32
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold36
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold42
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold48
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		TTT-Bold56
+		{
+			"1"
+			{
+				"name"		"TTT-Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+
+		// Khiara //
 		Khiara12
 		{
 			"1"
@@ -3170,6 +3263,16 @@ Scheme
 			{
 				"name"		"Khiara Script Personal"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		Khiara56
+		{
+			"1"
+			{
+				"name"		"Khiara Script Personal"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
